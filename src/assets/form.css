@@ -1,0 +1,23 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input, select, textarea {
+    border-bottom: 1px solid #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    width: 100%;
+    padding: 0.375rem 0;
+}
+
+.error-feedback {
+    color: red;
+    font-size: 0.875rem;
+}
